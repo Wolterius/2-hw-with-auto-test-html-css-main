@@ -101,7 +101,7 @@ select {
     width: 670px;
     height: 111px;
     background: #fff;
-    padding-left: 20px;
+    padding:0px 20px;
 }
 
 .label {
