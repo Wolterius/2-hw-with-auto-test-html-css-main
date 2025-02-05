@@ -9,10 +9,21 @@ body {}
 
 header {
     /* Стили для хедера */
+    width: 1440px;
+    height: 70px;
+    background: #2965f1;
+    line-height: auto;
+    letter-spacing: 0%;
+    padding: 23px 0px 23px;
+
 }
 
 header span {
     /* Стили для текста в хедере IT-INCUBATOR */
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
 }
 
 .main-section {
@@ -72,7 +83,8 @@ table {
     /* Стили для таблицы */
 }
 
-th, td {
+th,
+td {
     /* Стили для ячеек таблицы */
 }
 
